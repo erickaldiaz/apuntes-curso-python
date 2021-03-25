@@ -35,4 +35,16 @@ Caracteristicas de Phython:
 
 
 
+Windows 
+phyton -m pip install -U pip
+
+Sintasis y buenas prácticas 
+indentación 4 espacios con la barra espaciadora o 1 tab
+![image](https://user-images.githubusercontent.com/30804734/112544439-c3d39900-8d95-11eb-8a53-d2197f1ef078.png)
+
+
+
+
+
+
 
